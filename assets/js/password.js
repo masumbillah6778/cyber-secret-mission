@@ -7,7 +7,7 @@ function passcheck(){
         return false;
     }
     if (document.getElementById('pass1').value == Password) {
-        window.open("https://masumbillah6778.github.io/cyber-secret-mission/main/assets/html/secret-mission-password-box.html", "_blank");
+        window.open("https://masumbillah6778.github.io/cyber-secret-mission/assets/html/secret-mission-password-box.html", "_blank");
     }
 
 }
