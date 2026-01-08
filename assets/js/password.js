@@ -1,5 +1,5 @@
 const errorText = document.querySelector(".error-text");
-var Password ="1234";
+var Password ="12345";
 function passcheck(){
     if (document.getElementById('pass1').value != Password) {
         errorText.style.display = "block";
@@ -7,7 +7,7 @@ function passcheck(){
         return false;
     }
     if (document.getElementById('pass1').value == Password) {
-        window.open("main/index2.html", "_blank");
+        window.open("https://masumbillah6778.github.io/cyber-secret-mission/main/assets/html/secret-mission-password-box.html", "_blank");
     }
 
 }
