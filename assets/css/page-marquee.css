@@ -12,8 +12,8 @@ body {
   background-color: red;
   color: white;
   width: 100%;
-  padding: 10px;
-  font-size: 40px;
+  padding: 10px 0px;
+  font-size: 30px;
   font-weight: bold;
   font-family: 'solaiman-lipi';
   text-align: center;
@@ -144,3 +144,4 @@ marquee {
   }
 
 }
+
